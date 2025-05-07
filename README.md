@@ -1,5 +1,9 @@
 # Supervised Learning Algorithms for Classification (Hand-Crafted Implementations)
 
+112-1 Machine Learning Project1
+
+🚀 check out the [report](https://github.com/JenLungHsu/Supervised-Learning-Algorithms-for-Classification/blob/main/Supervised%20Learning%20Algorithms%20for%20Classification.pdf) for more detail.
+
 ## Project Overview
 This project implements various **Supervised Learning Algorithms** for classification tasks. All algorithms are implemented manually without the use of machine learning libraries like `scikit-learn`. The models include:
 
