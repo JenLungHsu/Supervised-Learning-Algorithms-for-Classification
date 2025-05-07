@@ -1,6 +1,6 @@
 # Supervised Learning Algorithms for Classification (Hand-Crafted Implementations)
 
-112-1 Machine Learning Project1
+[![Semester](https://img.shields.io/badge/Semester-Fall%202023-blue)]() [![Project](https://img.shields.io/badge/Project-Machine%20Learning%20Project%201-orange)]()
 
 🚀 check out the [report](https://github.com/JenLungHsu/Supervised-Learning-Algorithms-for-Classification/blob/main/Supervised%20Learning%20Algorithms%20for%20Classification.pdf) for more detail.
 
