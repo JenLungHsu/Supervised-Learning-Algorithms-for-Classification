@@ -16,12 +16,12 @@ The study emphasizes understanding the internal mechanisms of these algorithms, 
 
 ## Project Structure
 ```
-├── cross_validation.py          # Cross-validation and evaluation
-├── data_processing.py           # Data preprocessing and feature engineering
-├── definition_model.py          # Model definitions (Perceptron, K-NN, Decision Tree)
-├── feature_importance.py        # Feature importance analysis using SHAP values
+├── cross_validation.py                                     # Cross-validation and evaluation
+├── data_processing.py                                      # Data preprocessing and feature engineering
+├── definition_model.py                                     # Model definitions (Perceptron, K-NN, Decision Tree)
+├── feature_importance.py                                   # Feature importance analysis using SHAP values
 ├── Supervised Learning Algorithms for Classification.pdf   # Research paper with analysis
-├── README.md                    # Project documentation
+├── README.md                                               # Project documentation
 ```
 
 ## Methodology
