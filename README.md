@@ -2,7 +2,7 @@
 
 [![Semester](https://img.shields.io/badge/Semester-Fall%202023-blue)]() [![Project](https://img.shields.io/badge/Project-Machine%20Learning%20Project%201-orange)]()
 
-🚀 check out the [report](https://github.com/JenLungHsu/Supervised-Learning-Algorithms-for-Classification/blob/main/Supervised%20Learning%20Algorithms%20for%20Classification.pdf) for more detail.
+🚀 Check out the [report](https://github.com/JenLungHsu/Supervised-Learning-Algorithms-for-Classification/blob/main/Supervised%20Learning%20Algorithms%20for%20Classification.pdf) for more detail.
 
 ## Project Overview
 This project implements various **Supervised Learning Algorithms** for classification tasks. All algorithms are implemented manually without the use of machine learning libraries like `scikit-learn`. The models include:
